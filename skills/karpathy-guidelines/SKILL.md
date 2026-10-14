@@ -65,3 +65,7 @@ For multi-step tasks, state a brief plan:
 ```
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
+
+## Examples
+
+For before/after code showing each principle (and an anti-pattern summary table), read `references/examples.md` when unsure how a rule applies.
